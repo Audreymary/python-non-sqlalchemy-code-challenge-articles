@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
-import ipdb;
-
+# import ipdb;
+import os
+print(os.getcwd())
 
 
 from classes.many_to_many import Article
